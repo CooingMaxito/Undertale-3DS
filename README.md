@@ -11,6 +11,6 @@ The features that are prioritized to be added next:
 - Adding support for additional features unique to the 3DS
 
 # Known Issues
-On old models the **Name Select** glitches out until the A or R button is pressed.
-When moving against a wall the players gets constantly pushed away
-No Frisk dance (っ °Д °;)っ
+- On old models the **Name Select** glitches out until the A or R button is pressed.
+- When moving against a wall the players gets constantly pushed away
+- No Frisk dance (っ °Д °;)っ
