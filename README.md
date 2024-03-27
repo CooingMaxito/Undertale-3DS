@@ -6,9 +6,10 @@ Welcome to Undertale-3DS, a project aiming to bring the beloved game Undertale t
 # To be added
 The features that are prioritized to be added next:
 
-- Completing basic gameplay mechanics
-- Enhancing controls and performance
-- Adding support for additional features unique to the 3DS
+- Battle mechanics and random monster encounters
+- First Flowey encounter
+- Dialogue system for underworld (HA!) and inside of battles
+- Npcs and cutscenes
 
 # Known Issues
 - On old models the **Name Select** glitches out until the A or R button is pressed.
