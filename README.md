@@ -20,9 +20,10 @@ Check releases to get the latest builds
 - Semi-functional dialogue system
 
 # TODO
+- Add interactable objects and npcs
 - Add battles and random encounters
 - Make a leveling system
 - Add healing items and gear
 - Inventory
 - Finish the Flowey encounter
-- Overhail dialogue system
+- Overhaul dialogue system
