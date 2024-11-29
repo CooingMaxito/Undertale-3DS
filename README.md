@@ -1,7 +1,7 @@
 # Undertale-3DS
 
 # Overview
-Welcome to Undertale-3DS, a fan project aiming to bring the beloved game Undertale to the Nintendo 3DS platform. Please note that this project is 100% NOT official, currently in very early development, serving as a proof of concept. As of now, not much has been added to the project, and it is not suitable for regular gameplay.
+Welcome to Undertale-3DS, a fan project aiming to bring the beloved game Undertale to the Nintendo 3DS platform. Please note that this project is 100% NOT official, currently in very early development, serving as a proof of concept. As of now, not much has been added to the project, and it is not suitable for regular gameplay (hopefully soon!).
 
 **For now the project will be closed source, though I have plans to eventually make it open source sometime in the future**
 
@@ -29,3 +29,23 @@ Check releases to get the latest builds.
 - **SAVING SYSTEM (VERY IMPORTANT)**
 
 I am open to any feedback, suggestions and ideas! If you have anything in mind please let me know!
+
+# Disclaimer
+As stated at the top of this README, this is an unofficial fan project, which is not affiliated or endorsed by:
+- Toby Fox
+- Temmie Chang
+- Everdread
+- Flashygoodness
+- Leon Arnott
+- Gigi D.G
+- Kenju
+- Michelle Czajkowski
+- Angela Sham
+- 8-4
+- Keiko Fuchicho
+
+And all of Undertale's respective owners.
+
+This project uses Undertale's assets, music, characters, settings, and concepts, which are property I do NOT own, solely for non-commercial purposes and as a tribute to the original game. All characters belong to their respective owners.
+
+I do not intend to make any profit by selling this game in any manner.
