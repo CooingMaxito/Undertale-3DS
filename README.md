@@ -3,6 +3,8 @@
 # Overview
 Welcome to Undertale-3DS, a **fan-made project** aiming to bring the beloved game Undertale to the Nintendo 3DS platform. Please note that this project is 100% **unofficial**, currently in very early development, serving as a proof of concept at the moment. As of now, not much has been added to the project, and it is not suitable for regular gameplay (hopefully soon!).
 
+I am mainly using this project to learn about game development so that I can make something myself one day, so don't keep your expectations too high.
+
 **Future Plans:** The project is currently closed-source, but I plan to make it open-source later.
 
 Check the releases tab to get the latest builds!
